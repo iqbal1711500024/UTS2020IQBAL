@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948179975179",
+    "firebase_url": "https://utsiqbal-7d220.firebaseio.com",
+    "project_id": "utsiqbal-7d220",
+    "storage_bucket": "utsiqbal-7d220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948179975179:android:f75442c5e3fe3cd962db0e",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500024_iqbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948179975179-5nnc1kb90bn1i4n7ohuosgfivjt5rfi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDWV3GSGuabsfCVz0IhQ1NCoS-MDHQEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948179975179-5nnc1kb90bn1i4n7ohuosgfivjt5rfi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
